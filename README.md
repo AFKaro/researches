@@ -2,9 +2,9 @@
 My scientific researches
 
 ### PIBIC 2020/2021
-Supervised Learning With Unbalanced Dataset for Automatic Classification of Non-functional Requirements (focus on Multilayer Perceptron)
+Algoritmos de Aprendizagem Supervisionada com Conjuntos de Dados Desbalanceados para Classificação de Requisitos Não-Funcionais (Multilayer Perceptron)
 https://github.com/MachineResearchGroup/Resampling_and_NFR_Classification
 
 ### CBIC 2021
-Supervised Learning With Unbalanced Dataset for Automatic Classification of Non-functional Requirements
+Algoritmos de Aprendizagem Supervisionada com Conjuntos de Dados Desbalanceados para Classificação de Requisitos Não-Funcionais
 https://github.com/MachineResearchGroup/Research2021
