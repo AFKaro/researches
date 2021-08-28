@@ -1,5 +1,5 @@
 # Researches
-My scientific researches
+Minhas Pesquisas Científicas
 
 ### PIBIC 2020/2021
 Algoritmos de Aprendizagem Supervisionada com Conjuntos de Dados Desbalanceados para Classificação de Requisitos Não-Funcionais (Multilayer Perceptron)
